@@ -1,7 +1,10 @@
-
-<p align="center">
 [![Some stats about my activity on GitHub](https://github-readme-stats.vercel.app/api?username=gnuton&show_icons=true&include_all_commits=true&theme=dark)](https://gnuton.github.com)
-</p>  
+
+
+
+
+
+
 <!--
 **gnuton/gnuton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
