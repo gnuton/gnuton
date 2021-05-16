@@ -17,7 +17,7 @@
   </a>
 </p>
 <p align="center">
-  <b>Get in touch wit me via:</b>
+  <b>📫 How to reach me:</b>
 </p>
 <p align="center">
   <a href="https://twitter.com/gnuton">
